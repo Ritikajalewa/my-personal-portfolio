@@ -3,7 +3,7 @@ import Toggle from './Toggle'
 import Resume from './Resume.pdf'
 import  Particle from './Particle'
 import image36 from './Images/Hand.gif';
-import image2 from './Images/profile.jpeg';
+import image2 from './Images/profile.jpg';
 import Typewriter from "typewriter-effect";
 import Social from './Social';
 import {Link} from "react-router-dom";
@@ -45,7 +45,7 @@ return (
 <Particle/>
 <div className="wave-box">
     <h4 className="name-heading"><span className="boldness">Hi </span><img src={image36} alt="Hand" style={{width:30}}/><span className="boldness">, I'm </span>Ritika Jalewa</h4>
-    <img className="img-avatar " src={image2}  height="200" width="200" alt="p"></img>
+    <img className="img-avatar " src={image2} width="200" height="200" alt="p"></img>
     <div className="typical-weight">
     <Typewriter
   options={{ 
