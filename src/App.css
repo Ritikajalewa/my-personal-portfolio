@@ -938,10 +938,6 @@ html, body {
   .edu{
     height:70vh;
   }
-  svg[height]{
-    height:300px !important;
-  }
-
 
 } 
 @media screen and (min-width: 770px)
@@ -980,9 +976,6 @@ html, body {
    .education-image{
     display: none;
   } 
-  svg[height]{
-    height: 150px !important;
-  }
   .card-body{
     text-align: center;
   }
