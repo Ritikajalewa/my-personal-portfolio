@@ -5,7 +5,7 @@ import {Link} from "react-router-dom";
 function NavBar(){
   return (
     <>
-<nav className="navbar navbar-light navbar-expand-md circle">
+<nav className="navbar navbar-light navbar-expand-md circle p-2">
 <a className="navbar-brand" href="/">RITIKA</a>
 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
   <span className="navbar-toggler-icon bg-white"></span>
