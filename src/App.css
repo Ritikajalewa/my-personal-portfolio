@@ -921,7 +921,10 @@ html, body {
 }
 .education-image{
   height: 300px;
-  width:350px;
+  width:300px;
+}
+.boxxx{
+  width:200px;
 }
 .edu{
   height:90vh;
@@ -944,7 +947,9 @@ html, body {
 {
   .boxxx{
     display: none;
+    
   }
+
 }
 @media screen and (max-width: 400px) {
   .edu-animation{
@@ -978,6 +983,9 @@ html, body {
   } 
   .card-body{
     text-align: center;
+  }
+  .none{
+    display: none;
   }
 } 
 
@@ -1114,7 +1122,7 @@ project-img > div {
 }
 .btn-project-git {
   cursor: pointer;
-  margin-top: 1rem; 
+  margin-bottom: .5rem;
   text-decoration: none;
   border-radius: 15px 15px 15px 15px;
   background: none;
