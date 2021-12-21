@@ -157,7 +157,7 @@ function Project() {
       <h2 className="title">Chat Application</h2>
       <br className="none"/><br className="none"/> <br className="none"/><br className="none"/>
       <a href="https://github.com/Ritikajalewa/Chat-Application" className="btn-project-git"> <svg version="1.0" xmlns="http://www.w3.org/2000/svg"  width="50px" height="50px" viewBox="0 0 24.000000 24.000000"  preserveAspectRatio="xMidYMid meet">  <g transform="translate(0.000000,24.000000) scale(0.100000,-0.100000)" fill="#ffffff" stroke="none"> <path d="M71 206 c-28 -16 -50 -52 -51 -84 0 -30 25 -78 45 -86 22 -8 25 -8 25 4 0 6 -6 10 -14 10 -8 0 -16 7 -20 15 -3 8 -1 15 3 15 5 0 11 -5 13 -12 3 -7 10 -8 17 -3 11 6 9 12 -8 25 -19 13 -21 22 -16 51 6 33 7 34 55 34 48 0 49 -1 55 -35 5 -28 3 -37 -12 -47 -14 -10 -18 -21 -15 -43 4 -28 5 -28 27 -14 105 68 6 231 -104 170z"></path> </g> </svg> </a>
-     <a href=""  className="btn-project-online"> <svg version="1.0" xmlns="http://www.w3.org/2000/svg"  width="50px" height="50px" viewBox="0 0 48.000000 48.000000"  preserveAspectRatio="xMidYMid meet">  <g transform="translate(0.000000,48.000000) scale(0.100000,-0.100000)" fill="#ffffff" stroke="none"> <path d="M52 388 c-8 -8 -12 -51 -12 -130 0 -101 2 -118 18 -127 14 -8 10 -10 -20 -11 -31 0 -38 -4 -38 -20 0 -19 7 -20 240 -20 233 0 240 1 240 20 0 16 -7 20 -37 20 -31 1 -35 3 -20 11 15 9 17 26 17 127 0 79 -4 122 -12 130 -17 17 -359 17 -376 0z m348 -128 l0 -100 -160 0 -160 0 0 100 0 100 160 0 160 0 0 -100z m-15 -140 c4 -6 -47 -10 -144 -10 -94 0 -151 4 -151 10 0 13 287 13 295 0z"></path> </g> </svg> </a>
+     
      
     </div>
   </div>
