@@ -49,7 +49,7 @@ return (
     <div className="typical-weight">
     <Typewriter
   options={{ 
-    strings: ['FRONT END DEVELOPER' ,'JAVA DEVELOPER'],
+    strings: ['SALESFORCE DEVELOPER','FRONT END DEVELOPER' ,'JAVA DEVELOPER'],
     autoStart: true,
     loop: true,
   }}
